@@ -1,6 +1,1 @@
-"homepage": "https://Giridhar4.github.io/spidr-form",
-"scripts": {
-  ...
-  "predeploy": "npm run build",
-  "deploy": "gh-pages -d build"
-}
+{"homepage":"https://Giridhar4.github.io/spidr-form","scripts":{"predeploy":"npm run build","deploy":"gh-pages -d build"},"devDependencies":{"gh-pages":"^6.3.0"}}
