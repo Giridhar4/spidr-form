@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/spidr-form/static/css/main.598d9ebb.css",
+    "main.js": "/spidr-form/static/js/main.647fc371.js",
+    "static/js/488.2e75e1b5.chunk.js": "/spidr-form/static/js/488.2e75e1b5.chunk.js",
+    "index.html": "/spidr-form/index.html",
+    "main.598d9ebb.css.map": "/spidr-form/static/css/main.598d9ebb.css.map",
+    "main.647fc371.js.map": "/spidr-form/static/js/main.647fc371.js.map",
+    "488.2e75e1b5.chunk.js.map": "/spidr-form/static/js/488.2e75e1b5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.598d9ebb.css",
+    "static/js/main.647fc371.js"
+  ]
+}
